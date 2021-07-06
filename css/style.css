@@ -1,0 +1,96 @@
+body {
+    display: grid;
+    grid-template-rows: 100px 1 fr 50px;
+    font-family: 'Roboto', sans-serif;
+    ma
+}
+
+
+header {
+    background-color: #39A2DB;
+    height: 150px;
+    
+}
+
+
+main {
+    display: flex;
+    justify-content: space-around;
+    margin: 200px;
+    
+}
+
+
+input[type=text], select {
+    width: 200px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+
+
+
+
+
+  #button1 {
+    width: 100px;
+    background-color: #71c7ec;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    
+   
+  }
+  #button2 {
+    width: 100px;
+    background-color: #a10909;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    
+   
+  }
+
+
+  tr {
+      background-color: #77ACF1;
+      border: 30px;
+  }
+
+
+  #formsec {
+
+  }
+
+
+  #tablesec {
+
+  }
+
+
+  form {
+      border-style: dashed;
+  }
+
+
+
+
+  
+Used colors are: 
+- ![#39A2DB](https://via.placeholder.com/15/39A2DB/000000?text=+) `#39A2DB`
+- ![#053742](https://via.placeholder.com/15/053742/000000?text=+) `#053742`
+- ![#E8F0F6](https://via.placeholder.com/15/E8F0F6/000000?text=+) `#E8F0F6`
+
+Table head, footer color:
+- ![#A2DBFA](https://via.placeholder.com/15/A2DBFA/000000?text=+) `#A2DBFA`
+- ![#77ACF1](https://via.placeholder.com/15/77ACF1/000000?text=+) `#77ACF1`
+
+Buttons:
+- ![#a10909](https://via.placeholder.com/15/a10909/000000?text=+) `#a10909`
+- ![#71c7ec](https://via.placeholder.com/15/71c7ec/000000?text=+) `#71c7ec`
